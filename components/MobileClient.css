@@ -1,0 +1,13 @@
+td {
+    width: 200px;
+    text-align: center;
+}
+
+.active {
+    background-color: green;
+    color: white;
+    
+}
+.unactive {
+    background-color: red;
+}

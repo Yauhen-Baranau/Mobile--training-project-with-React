@@ -1,0 +1,21 @@
+td {
+    width: 200px;
+    text-align: center;
+}
+
+.active {
+    background-color: green;
+    color: white;
+    
+}
+.unactive {
+    background-color: red;
+}.fl {
+
+    float: left;
+    display: block;
+    width: 120px;
+
+}
+
+/*# sourceMappingURL=bundle.css.map*/
